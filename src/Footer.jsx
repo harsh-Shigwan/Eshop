@@ -39,7 +39,11 @@ const Footer = () => {
             <h3 className="text-gray-600 dark:text-white/70 lg:pr-24 pt-3">Shrushti Pawar - vu1f2223078</h3>
             <h3 className="text-gray-600 dark:text-white/70 lg:pr-24 pt-3">Tejaswini Ghawale - vu1f2223080</h3>
             <p className="text-gray-500 mt-4">Enjoying the journey of coding</p>
+<<<<<<< HEAD
             <a href="https://www.youtube.com/@pvppcoemumbai3334" target="_blank" className="inline-block bg-slate-700 dark:bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full">Visit Our Youtube Channel</a>
+=======
+            <a href="https://www.youtube.com/@pvppcoemumbai3334" target="_blank" className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full">Visit Our Youtube Channel</a>
+>>>>>>> 56d233ca321380d549b77543ad11088a7da0b708
           </div>
 
           {/* Footer links */}
